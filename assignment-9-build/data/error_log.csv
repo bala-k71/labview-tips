@@ -1,0 +1,9 @@
+0,12:22:06 04-06-2025,560179,560179 -     Synchronous_PSRR_Meter.vi       main.vi,Unknown
+1,12:22:07 04-06-2025,-8641,-8641 -     Synchronous_PSRR_Meter.vi       main.vi,Unknown
+2,12:22:09 04-06-2025,540959,No peripherals detected,Warning
+3,12:22:10 04-06-2025,7569,Critical Unsafe Current Level Detected!! Device not Fit for use,Critical
+4,12:22:13 04-06-2025,9998,Out of memory!! Operation Aborted!!,Passive
+5,12:22:14 04-06-2025,586942,Critical One or more on-board Fuses have Burnt Out!,Critical
+6,12:22:16 04-06-2025,6053,Device Timed Out! No response from device,Passive
+7,12:22:17 04-06-2025,586942,Critical One or more on-board Fuses have Burnt Out!,Critical
+8,12:22:19 04-06-2025,6191,Critical Device Failure. Temperature exceeded safe limit!!!,Critical
