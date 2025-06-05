@@ -1,0 +1,14 @@
+[ProjectWindow_Data]
+<<<<<<< HEAD
+ProjectExplorer.ClassicPosition[String] = "325,-1044,790,-673"
+=======
+ProjectExplorer.ClassicPosition[String] = "218,737,683,1108"
+
+[AB_Cache_{A2A6E1A7-194D-403B-8F87-D8D42B728B16}]
+Cache_Path[Path] Line0001 = "/C/Users/bala.kannan/AppData/Local/Temp/AB_Cache_{"
+Cache_Path[Path] Line0002 = "A2A6E1A7-194D-403B-8F87-D8D42B728B16}.txt"
+
+[AB_Cache_{32530C53-FA5E-40B3-B735-85E682F33462}]
+Cache_Path[Path] Line0001 = "/C/Users/bala.kannan/AppData/Local/Temp/AB_Cache_{"
+Cache_Path[Path] Line0002 = "32530C53-FA5E-40B3-B735-85E682F33462}.txt"
+>>>>>>> d418983 (feat: add revised installer)
