@@ -4,4 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Add.vi" Type="VI" URL="../SubVIs/Add.vi"/>
+	<Item Name="Divide.vi" Type="VI" URL="../SubVIs/Divide.vi"/>
+	<Item Name="Multiply.vi" Type="VI" URL="../SubVIs/Multiply.vi"/>
+	<Item Name="Subtract.vi" Type="VI" URL="../SubVIs/Subtract.vi"/>
 </Library>
