@@ -11,9 +11,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="dll_selector.ctl" Type="VI" URL="../Controls/dll_selector.ctl"/>
-		<Item Name="math_op.vit" Type="VI" URL="../SubVIs/math_op.vit"/>
-		<Item Name="operation_selector.ctl" Type="VI" URL="../Controls/operation_selector.ctl"/>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="dll_selector.ctl" Type="VI" URL="../Controls/dll_selector.ctl"/>
+			<Item Name="operation_selector.ctl" Type="VI" URL="../Controls/operation_selector.ctl"/>
+		</Item>
+		<Item Name="Templates" Type="Folder">
+			<Item Name="math_op.vit" Type="VI" URL="../SubVIs/math_op.vit"/>
+		</Item>
 		<Item Name="task_1.lvlib" Type="Library" URL="../task_1.lvlib"/>
 		<Item Name="task_2.lvlib" Type="Library" URL="../task_2.lvlib"/>
 		<Item Name="task_3.lvlib" Type="Library" URL="../task_3.lvlib"/>

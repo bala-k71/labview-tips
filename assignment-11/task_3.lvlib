@@ -4,5 +4,5 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="main_3.vi" Type="VI" URL="../SubVIs/main_3.vi"/>
+	<Item Name="main_3.vi" Type="VI" URL="../main_3.vi"/>
 </Library>
