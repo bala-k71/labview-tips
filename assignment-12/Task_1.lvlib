@@ -9,6 +9,8 @@
 		<Item Name="Operations.ctl" Type="VI" URL="../Control/Operations.ctl"/>
 		<Item Name="Point.ctl" Type="VI" URL="../Control/Point.ctl"/>
 		<Item Name="State.ctl" Type="VI" URL="../Control/State.ctl"/>
+		<Item Name="state_data.ctl" Type="VI" URL="../Control/state_data.ctl"/>
+		<Item Name="Transparent_btn.ctl" Type="VI" URL="../Control/Transparent_btn.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="data_LV2.vi" Type="VI" URL="../SubVIs/data_LV2.vi"/>

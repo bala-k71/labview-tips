@@ -11,9 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Control 7.ctl" Type="VI" URL="../Control/Control 7.ctl"/>
 		<Item Name="Task_1.lvlib" Type="Library" URL="../Task_1.lvlib"/>
-		<Item Name="Transparent_btn.ctl" Type="VI" URL="../Control/Transparent_btn.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
