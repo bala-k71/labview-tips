@@ -4,4 +4,19 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Controls" Type="Folder">
+		<Item Name="Clear_num_ind.ctl" Type="VI" URL="../Controls/Clear_num_ind.ctl"/>
+		<Item Name="data_limits.ctl" Type="VI" URL="../Controls/data_limits.ctl"/>
+		<Item Name="Data_TC.ctl" Type="VI" URL="../SubVIs/Data_TC.ctl"/>
+		<Item Name="event_operations.ctl" Type="VI" URL="../Controls/event_operations.ctl"/>
+		<Item Name="Queue_op.ctl" Type="VI" URL="../Controls/Queue_op.ctl"/>
+	</Item>
+	<Item Name="SubVIs" Type="Folder">
+		<Item Name="data_acquisition.vi" Type="VI" URL="../SubVIs/data_acquisition.vi"/>
+		<Item Name="Error_log.vi" Type="VI" URL="../SubVIs/Error_log.vi"/>
+		<Item Name="Generate_error.vi" Type="VI" URL="../SubVIs/Generate_error.vi"/>
+		<Item Name="Queue_LV2.vi" Type="VI" URL="../SubVIs/Queue_LV2.vi"/>
+		<Item Name="Stop_LV2.vi" Type="VI" URL="../SubVIs/Stop_LV2.vi"/>
+	</Item>
+	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 </Library>
