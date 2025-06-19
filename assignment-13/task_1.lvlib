@@ -15,6 +15,7 @@
 		<Item Name="data_acquisition.vi" Type="VI" URL="../SubVIs/data_acquisition.vi"/>
 		<Item Name="Error_log.vi" Type="VI" URL="../SubVIs/Error_log.vi"/>
 		<Item Name="Generate_error.vi" Type="VI" URL="../SubVIs/Generate_error.vi"/>
+		<Item Name="main_init.vi" Type="VI" URL="../SubVIs/main_init.vi"/>
 		<Item Name="Queue_LV2.vi" Type="VI" URL="../SubVIs/Queue_LV2.vi"/>
 		<Item Name="Stop_LV2.vi" Type="VI" URL="../SubVIs/Stop_LV2.vi"/>
 	</Item>
