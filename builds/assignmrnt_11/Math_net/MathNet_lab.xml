@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>MathNet_lab</name>
+  </assembly>
+  <members>
+    <member name="M:InteropAssembly.task_2.Add(System.Double@,System.Double,System.Double)">
+      <summary>Add two numbers (Double)</summary>
+      <returns>System.Double</returns>
+    </member>
+    <member name="M:InteropAssembly.LabVIEWExports.Divide(System.Double,System.Double,System.Double@)">
+      <summary>Divide two numbers (Double)</summary>
+      <returns>System.Double</returns>
+    </member>
+    <member name="M:InteropAssembly.LabVIEWExports.Multiply(System.Double,System.Double,System.Double@)">
+      <summary>Multiply two numbers (Double)</summary>
+      <returns>System.Double</returns>
+    </member>
+    <member name="M:InteropAssembly.LabVIEWExports.Subtract(System.Double,System.Double,System.Double@)">
+      <summary>Subtract two numbers (Double)</summary>
+      <returns>System.Double</returns>
+    </member>
+  </members>
+</doc>
