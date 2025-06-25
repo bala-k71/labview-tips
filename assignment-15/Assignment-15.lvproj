@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Lavatory_Management.lvlib" Type="Library" URL="../Lavatory_Management.lvlib"/>
+		<Item Name="Queue_Driver.lvlib" Type="Library" URL="../Queue_Driver.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
