@@ -10,7 +10,7 @@
 		<Item Name="Denominations.ctl" Type="VI" URL="../Controls/Denominations.ctl"/>
 		<Item Name="Machine_data.ctl" Type="VI" URL="../Controls/Machine_data.ctl"/>
 		<Item Name="Panel_states.ctl" Type="VI" URL="../Controls/Panel_states.ctl"/>
-		<Item Name="Queue Opertaions.ctl" Type="VI" URL="../Queue Opertaions.ctl"/>
+		<Item Name="Queue Opertaions.ctl" Type="VI" URL="../Controls/Queue Opertaions.ctl"/>
 		<Item Name="Read_Write.ctl" Type="VI" URL="../Controls/Read_Write.ctl"/>
 	</Item>
 	<Item Name="Data" Type="Folder">
